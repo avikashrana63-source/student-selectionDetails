@@ -1,3 +1,4 @@
+
 ✅ Mandatory Eligibility After Class 10 (India)
 Mandatory:
 
@@ -13,6 +14,10 @@ Entrance test (for some polytechnic/diploma courses
 Mandatory Eligibility After Class 10 (India)
 📘 SCIENCE STREAM (PCM / PCB)
 
+COMMERCE STREAM (With / Without Maths)
+
+feature-commerce
+
 Mandatory:
 
 Pass Class 10
@@ -26,5 +31,11 @@ Minimum percentage as per school/board (usually 60–75%)
 Some schools require minimum marks in Maths & Science separately
 
 
+
+
+
+Minimum overall percentage (generally 50–60%)
+
+Mathematics – mandatory only if opting Commerce with Maths
 
 
