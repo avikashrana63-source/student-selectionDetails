@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ✅ Mandatory Eligibility After Class 10 (India)
 Mandatory:
@@ -8,7 +9,18 @@ Maths & Science mandatory for technical trades
 
 Age criteria (varies by course)
 
-Entrance test (for some polytechnic/diploma courses
+Entrance test (for some polytechnic/diploma courseARTS / HUMANITIES STREAM
+
+Mandatory:
+
+Pass Class 10
+
+No specific subject requirement
+
+Minimum percentage (often 40–50%, varies by school) ............
+
+
+Thanku for visiting ......... bye have a great decesion
 
 
 Mandatory Eligibility After Class 10 (India)
@@ -18,13 +30,16 @@ COMMERCE STREAM (With / Without Maths)
 
 feature-commerce
 
+ARTS / HUMANITIES STREAM
+
+feature-Arts
+
 Mandatory:
 
 Pass Class 10
 
-Science subject in Class 10
 
-Mathematics (mandatory for PCM)
+Science subject in Class 10 Mathematics (mandatory for PCM)
 
 Minimum percentage as per school/board (usually 60–75%)
 
@@ -38,4 +53,11 @@ Minimum overall percentage (generally 50–60%)
 
 Mathematics – mandatory only if opting Commerce with Maths
 
+
+No specific subject requirement
+
+Minimum percentage (often 40–50%, varies by school) ............
+
+
+Thanku for visiting ......... bye have a great decesion feature-Arts
 
